@@ -1,1 +1,10 @@
-CSS
+*{
+  color : red; 
+}
+
+h1{
+  font-family: Georgia, serif ;
+}
+p {
+  font-family: "Times New Roman" serif ;
+}

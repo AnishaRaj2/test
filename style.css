@@ -1,4 +1,76 @@
 *{
+  font-family: aboreto ;
+}
+h1{
   font-family: Purisa ;
 }
+.contactme-button {
+  background-color: #83f6de;
+  color: #8f5902;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+.contactme-button:hover{
+  background-color: #a3af06;
+   box-shadow: 8px 8px 8px rgba(0,0,0,0.4);
+}
+.contactme-button:active{
+  background-color: #f17878;
+}
 
+
+.suscribe-button{
+  background-color: #ffffff;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color: blue;
+  border-style: solid;
+  color: blue;
+  border-radius: 27px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.suscribe-button:hover{
+  background-color: blue;
+  color: white;
+}
+
+.search-button{
+  background-color: #ad7fa8;
+  border-color: black;
+  border-style: solid;
+  color: black;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
+
+.search-button:hover{
+  opacity: 0.7;
+}
+.search-button:active{
+  opacity: 0.2;
+}

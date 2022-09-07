@@ -1,12 +1,13 @@
 *{
   font-family: Inconsolata;
 }
-body{
-  background-image: url(veganfood.png);
-  opacity: 0.5;
-}
+/*body{background-image: url(veganfood.png);}*/
+
 h1{
   font-family: Purisa ;
+}
+.logo-image{
+  width: 40%;
 }
 
 .veganfood-image{
